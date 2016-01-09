@@ -1,6 +1,6 @@
 gitbook-plugin-word-count v0.2
 ==============================
-[![NPM version](http://img.shields.io/npm/v/storenvy.svg?style=flat)](https://www.npmjs.org/package/gitbook-plugin-word-count)
+[![NPM version](http://img.shields.io/npm/v/gitbook-plugin-word-count.svg?style=flat)](https://www.npmjs.org/package/gitbook-plugin-word-count)
 [![Test Coverage](https://codeclimate.com/github/ryanmurakami/gitbook-plugin-word-count/badges/coverage.svg)](https://codeclimate.com/github/ryanmurakami/gitbook-plugin-word-count)
 
 #### A word counting plugin for Gitbook

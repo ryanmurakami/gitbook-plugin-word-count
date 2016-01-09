@@ -1,10 +1,11 @@
 {
   "name": "gitbook-plugin-word-count",
-  "version": "0.2",
+  "version": "0.2.0",
   "description": "A gitbook plugin to report word count",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/jasmine"
+    "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/jasmine",
+    "report_coverage": "CODECLIMATE_REPO_TOKEN=9a57033ee6e3041931824d2c05ea53b1edde448af4864bfca7c25500cebf9d54 codeclimate-test-reporter <  ./coverage/lcov.info"
   },
   "engines": {
     "gitbook": ">=2.5.0"
