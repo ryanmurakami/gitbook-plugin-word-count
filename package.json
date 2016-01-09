@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-word-count",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A gitbook plugin to report word count",
   "main": "index.js",
   "scripts": {
