@@ -1,4 +1,4 @@
-# gitbook-plugin-word-count v0.1.0
+# gitbook-plugin-word-count v0.1.1
 
 ### A word counting plugin for Gitbook
 
