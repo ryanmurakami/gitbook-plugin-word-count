@@ -1,10 +1,10 @@
 {
   "name": "gitbook-plugin-word-count",
-  "version": "0.1.1",
+  "version": "0.2",
   "description": "A gitbook plugin to report word count",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/jasmine"
   },
   "engines": {
     "gitbook": ">=2.5.0"
@@ -12,6 +12,11 @@
   "author": "Ryan Lewis <ryanharrisonlewis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.1",
+    "jasmine": "^2.4.1"
   }
 }
