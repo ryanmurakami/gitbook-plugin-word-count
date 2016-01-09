@@ -8,9 +8,7 @@ Add to your book.json plugins array
 
 ```json
 {
-	...
 	"plugins": ["word-count"]
-	...
 }
 ```
 
