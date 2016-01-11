@@ -27,3 +27,12 @@ Then install with gitbook-cli
 $ gitbook install
 ```
 
+## Output
+
+Output currently looks something like this during a build (building or serving):
+
+```sh
+> info: OK
+> Completed counting with 3746 words.
+> info: generation is finished
+```

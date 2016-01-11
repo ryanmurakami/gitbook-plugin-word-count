@@ -12,6 +12,14 @@
   },
   "author": "Ryan Lewis <ryanharrisonlewis@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryanmurakami/gitbook-plugin-word-count.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryanmurakami/gitbook-plugin-word-count/issues"
+  },
+  "homepage": "https://github.com/ryanmurakami/gitbook-plugin-word-count",
   "dependencies": {
     "colors": "^1.1.2",
     "lodash": "^3.10.1"
